@@ -8,4 +8,4 @@ Dataset: Los data se encuentra pre-cargado con el notebook en Kaggle. Se usó Fa
 Modelos: Redes Siameses, YOLOv3.
 [Notebook Kaggle](https://www.kaggle.com/code/miguelplata/notebook-proyecto-ia)
 [Video Youtube](https://youtu.be/KMnL0hpqC5Q)
-
+[GitHub](https://github.com/Minerisho/Face_SiameseNetwork-AI2_Proyect-UIS/tree/main)
